@@ -7,9 +7,10 @@ Features
 - Iterates and prints the inventory list.
 
 Future Goals
+-  Making the first Character in the inventory list uppercase for cleanliness.
 -  Use custom objects for inventory items
 -  Adding file saving/loading
--  Making the first Character in the inventory list Uppercase for Cleanliness.
+
 
 
 
