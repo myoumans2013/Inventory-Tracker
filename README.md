@@ -9,6 +9,7 @@ Features
 Future Goals
 -  Use custom objects for inventory items
 -  Adding file saving/loading
+-  Making the first Character in the inventory list Uppercase for Cleanliness.
 
 
 
