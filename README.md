@@ -1,5 +1,5 @@
 # Inventory-Tracker
-A basic Java app for managing an inventory through adding and removing items. This is an early project focused on building a foundation of programming skulls using flow and data structures.
+A basic Java app for managing an inventory through adding and removing items. This is an early project focused on building a strong foundation of programming skills using basic flow.
 
 Features
 - Adds item to inventory without adding duplicates
